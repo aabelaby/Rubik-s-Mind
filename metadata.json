@@ -1,0 +1,5 @@
+{
+  "name": "Rubik's Mind - Interactive Solver",
+  "description": "A professional, interactive Rubik's Cube solver interface featuring a 3D-style flat net visualization, state validation, and animated solution playback.",
+  "requestFramePermissions": []
+}
